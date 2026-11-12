@@ -1,0 +1,4 @@
+top_k,correct_papers,total_questions,hit_rate_percent,average_passages,average_context_words
+1,12,15,80.0,1.0,72.67
+3,14,15,93.33,3.0,224.07
+5,14,15,93.33,5.0,372.67

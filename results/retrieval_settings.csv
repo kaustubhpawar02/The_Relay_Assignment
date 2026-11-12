@@ -1,0 +1,4 @@
+setting,chunk_size,overlap,top_k,total_chunks,correct_papers,total_questions,hit_rate_percent,average_passages,average_context_words
+small,500,100,3,979,14,15,93.33,3.0,224.07
+medium,1000,200,3,501,14,15,93.33,3.0,443.67
+large,1500,300,3,342,14,15,93.33,3.0,642.27

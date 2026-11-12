@@ -1,0 +1,10 @@
+setting,chunk_size,overlap,top_k,question,expected_paper,retrieved_papers,paper_hit,context_words,tokens_in,tokens_out,ttft_ms,total_ms,status
+small,500,100,3,How does scaled dot-product attention work?,attention,attention,True,227,505,598,2491.63,2655.74,ok
+small,500,100,3,What is the role of the Mimi audio codec in Moshi?,moshi,moshi,True,221,548,502,1735.04,1930.2,ok
+small,500,100,3,What is dynamic chunking in sequence modeling?,dynamic_chunking,dynamic_chunking,True,206,521,185,703.59,984.79,ok
+medium,1000,200,3,How does scaled dot-product attention work?,attention,attention,True,469,830,212,1214.19,1313.31,ok
+medium,1000,200,3,What is the role of the Mimi audio codec in Moshi?,moshi,moshi,True,458,877,509,1587.19,1866.46,ok
+medium,1000,200,3,What is dynamic chunking in sequence modeling?,dynamic_chunking,dynamic_chunking,True,340,768,458,1609.27,1791.54,ok
+large,1500,300,3,How does scaled dot-product attention work?,attention,attention,True,656,1095,350,1514.23,1682.44,ok
+large,1500,300,3,What is the role of the Mimi audio codec in Moshi?,moshi,moshi,True,692,1405,332,1703.15,1829.85,ok
+large,1500,300,3,What is dynamic chunking in sequence modeling?,dynamic_chunking,dynamic_chunking,True,520,1147,337,966.6,1250.68,ok

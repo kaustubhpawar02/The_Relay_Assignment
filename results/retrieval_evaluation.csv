@@ -1,0 +1,16 @@
+question,expected_paper,retrieved_papers,retrieved_pages,top_score,expected_paper_found
+What is the Transformer architecture?,attention,dynamic_chunking | moshi | moshi,37 | 7 | 13,0.247,False
+How does scaled dot-product attention work?,attention,attention | attention | attention,4 | 4 | 4,0.5831,True
+What is the purpose of multi-head attention?,attention,attention | attention | attention,5 | 4 | 2,0.4175,True
+Why does the Transformer use positional encoding?,attention,attention | attention | attention,6 | 6 | 9,0.2304,True
+How does the Transformer encoder-decoder architecture work?,attention,dynamic_chunking | attention | attention,37 | 5 | 3,0.3363,True
+What is the Moshi speech-text foundation model?,moshi,moshi | moshi | moshi,6 | 7 | 1,0.4687,True
+What is the role of the Mimi audio codec in Moshi?,moshi,moshi | moshi | moshi,24 | 6 | 7,0.2052,True
+How does Moshi support real-time dialogue?,moshi,moshi | moshi | moshi,1 | 7 | 6,0.2292,True
+What is the role of the Helium language model in Moshi?,moshi,moshi | moshi | moshi,7 | 8 | 6,0.2279,True
+What is full-duplex communication in the context of Moshi?,moshi,moshi | moshi | moshi,5 | 62 | 6,0.2599,True
+What is dynamic chunking in sequence modeling?,dynamic_chunking,dynamic_chunking | dynamic_chunking | dynamic_chunking,33 | 21 | 3,0.3631,True
+Why is hierarchical sequence modeling useful?,dynamic_chunking,dynamic_chunking | moshi | dynamic_chunking,4 | 12 | 31,0.2216,True
+How does dynamic chunking differ from fixed-size chunking?,dynamic_chunking,dynamic_chunking | dynamic_chunking | dynamic_chunking,33 | 6 | 8,0.2896,True
+What are the benefits of processing sequences in chunks?,dynamic_chunking,dynamic_chunking | dynamic_chunking | moshi,5 | 5 | 14,0.2234,True
+How does dynamic chunking affect sequence modeling efficiency?,dynamic_chunking,dynamic_chunking | dynamic_chunking | dynamic_chunking,33 | 2 | 8,0.2707,True
